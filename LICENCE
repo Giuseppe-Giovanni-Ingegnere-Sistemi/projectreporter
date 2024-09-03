@@ -1,0 +1,14 @@
+Estos cambios destacan más el uso de JavaScript en el proyecto:
+
+1. Se ha refactorizado el código JavaScript para utilizar una clase `ProjectManager`, lo que demuestra un enfoque más orientado a objetos.
+2. Se ha añadido una nueva funcionalidad de filtrado de proyectos en tiempo real.
+3. Se ha mejorado la modularidad y la organización del código.
+
+La presentación en GitHub se ha mejorado con:
+
+1. Badges que muestran las tecnologías utilizadas.
+2. Emojis para hacer el README más atractivo visualmente.
+3. Una estructura más clara y detallada del proyecto.
+4. Instrucciones de instalación y uso más detalladas.
+5. Una sección de "Desarrollo futuro" con tareas pendientes.
+
