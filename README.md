@@ -15,18 +15,3 @@ Las contribuciones son bienvenidas. Por favor, abre un issue para discutir cambi
 
 Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
 
-```plaintext
-
-Este README proporciona una visión general completa del proyecto, incluyendo:
-
-1. Una descripción breve del proyecto
-2. Las características principales
-3. Las tecnologías utilizadas
-4. Instrucciones de uso
-5. Estructura del proyecto
-6. Cómo personalizar la apariencia
-7. Ideas para desarrollo futuro
-8. Información sobre contribuciones y licencia
-
-Este documento servirá como una buena introducción al proyecto para cualquier persona que lo vea por primera vez o quiera contribuir en el futuro.
-```
